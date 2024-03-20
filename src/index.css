@@ -1,0 +1,17 @@
+.getbackmenu {
+    
+    display: flex;
+    position: fixed;
+    bottom: 5%;
+    margin-left: 5px;
+    opacity: 0.2;
+   
+}
+
+.getbackmenu:hover {
+    opacity: 5;
+}
+
+.getbackmenu img {
+    width: 35px;
+}
